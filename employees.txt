@@ -1,0 +1,11 @@
+[
+    {"id":"101","lastName":"Reyes","firstName":"Juan","birthday":"YYYY-MM-DD","address":"Sample Addr","phoneNumber":"09123456789",
+     "sss":"123-45678","philHealth":"987-654321","tin":"123-45678","pagIbig":"987-654321","status":"Regular","position":"Developer",
+     "basicSalary":"25000","riceAllowance":"1500","subsidy":"500","phoneAllowance":"300","clothingAllowance":"400",
+     "grossSemiMonthlyRate":"13850","hourlyRate":"329.76"},
+
+    {"id":"102","lastName":"Santos","firstName":"Maria","birthday":"YYYY-MM-DD","address":"Sample Addr","phoneNumber":"09234567890",
+     "sss":"234-56789","philHealth":"876-543210","tin":"234-56789","pagIbig":"876-543210","status":"Regular","position":"Analyst",
+     "basicSalary":"28000","riceAllowance":"1500","subsidy":"500","phoneAllowance":"300","clothingAllowance":"400",
+     "grossSemiMonthlyRate":"15350","hourlyRate":"368.10"}
+]
